@@ -33,7 +33,7 @@ table tr td:last-child{
 }
 
 .endgame{
-    /* display: none; */
+    display: none;
     width: 200px;
     top: 120px;
     background-color: rgba(205,133,63,0.8);
@@ -41,6 +41,7 @@ table tr td:last-child{
     left: 50%;
     margin-left: -100px;
     padding-top: 50px;
+    text-align: center;
     padding-bottom: 50px;
     border-radius: 5px;
     color:white;
